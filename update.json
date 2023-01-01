@@ -1,6 +1,7 @@
 { 
    "version":"1.0.0.3",
    "url":"http://smoll.net/RadOSLauncher.exe",
+   "changelog":"https://github.com/SmollNet/YDTest/releases",
    "mandatory":{ 
       "value":true,
       "mode":1

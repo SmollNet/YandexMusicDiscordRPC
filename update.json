@@ -1,0 +1,8 @@
+{ 
+   "version":"1.0.0.3",
+   "url":"http://smoll.net/RadOSLauncher.exe",
+   "mandatory":{ 
+      "value":true,
+      "mode":1
+   }
+}

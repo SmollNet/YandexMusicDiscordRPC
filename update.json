@@ -1,7 +1,7 @@
 { 
    "version":"1.0.0.3",
    "url":"http://smoll.net/RadOSLauncher.exe",
-   "changelog":"http://100rad.ru",
+   "changelog":"https://raw.githubusercontent.com/SmollNet/YDTest/main/README.md",
    "mandatory":{ 
       "value":true,
       "mode":1

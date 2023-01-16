@@ -1,7 +1,7 @@
 { 
-   "version":"1.0.0.0",
-   "url":"http://smoll.net/RadOSLauncher.exe",
-   "changelog":"https://raw.githubusercontent.com/SmollNet/YDTest/main/README.md",
+   "version":"1.0.0.2",
+   "url":"https://github.com/SmollNet/YDTest/releases/download/1.0.0.2/YADMusic-1.0.0.Setup.exe",
+   "changelog":"https://github.com/SmollNet/YDTest/releases/tag/1.0.0.2",
    "mandatory":{ 
       "value":true,
       "mode":1

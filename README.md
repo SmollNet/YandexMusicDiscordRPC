@@ -1,5 +1,6 @@
 # YADM
 ![preloader](https://user-images.githubusercontent.com/26259129/213290976-7b8e803e-037a-4927-b74d-6d72ae20c6b4.gif)
+
 TG: https://t.me/YDiscordMusic
 Это приложение ЯМузыки с дискорд интеграцией,поделись с друзьями своей музыкой!
 ![image](https://user-images.githubusercontent.com/26259129/213290994-9ead510a-a59f-4541-b815-8c7cdc9b8684.png)

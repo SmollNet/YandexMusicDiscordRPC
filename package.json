@@ -1,0 +1,19 @@
+{
+  "name": "dcapi",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "discord.js": "^13.15.1",
+    "discord.js-selfbot-v13": "^2.13.3",
+    "dotenv": "^16.0.3"
+  },
+  "pkg": {
+    "outputPath": "dist",
+    "targets": [
+      "win"
+    ],
+    "assets": [
+      "./node_modules/axios/dist/node/axios.cjs"
+    ]
+  }
+}
